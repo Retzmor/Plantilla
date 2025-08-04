@@ -6,7 +6,6 @@ using Unity.VisualScripting;
 using UnityEngine;
 using UnityEngine.UI;
 using Zenject;
-using static UnityEditor.Progress;
 
 public class OptionsUIHandler : MonoBehaviour
 {
@@ -29,11 +28,13 @@ public class OptionsUIHandler : MonoBehaviour
 
     public void LoadQualityChange()
     {
-        qualityDropdown.AddOptions(QualitySettings.names.ToList());
+        qualityDropdown.AddOptions(displayManager.GetQualityName());
         qualityDropdown.onValueChanged.AddListener(delegate
         {
-            QualitySettings.SetQualityLevel(qualityDropdown.value);
+            displayManager.QualityChange(qualityDropdown.value);
         });
+
+        qualityDropdown.value = displayManager.GetQualityLevel();
     }
 
     public void FullScreenToggle()

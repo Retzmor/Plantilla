@@ -3,24 +3,12 @@
   "WorkspaceRootPath": "C:\\UnityErwin\\erwinnner\\PrimerDia5\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{18BD6B3E-1215-820E-34B4-41866EC33463}|Assembly-CSharp.csproj|C:\\UnityErwin\\erwinnner\\PrimerDia5\\assets\\scripts\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{18BD6B3E-1215-820E-34B4-41866EC33463}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{18BD6B3E-1215-820E-34B4-41866EC33463}|Assembly-CSharp.csproj|c:\\unityerwin\\erwinnner\\primerdia5\\assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18BD6B3E-1215-820E-34B4-41866EC33463}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{18BD6B3E-1215-820E-34B4-41866EC33463}|Assembly-CSharp.csproj|C:\\UnityErwin\\erwinnner\\PrimerDia5\\assets\\scripts\\optionsuihandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{18BD6B3E-1215-820E-34B4-41866EC33463}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\optionsuihandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{18BD6B3E-1215-820E-34B4-41866EC33463}|Assembly-CSharp.csproj|c:\\unityerwin\\erwinnner\\primerdia5\\assets\\scripts\\uimanagerinstaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{18BD6B3E-1215-820E-34B4-41866EC33463}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\uimanagerinstaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{18BD6B3E-1215-820E-34B4-41866EC33463}|Assembly-CSharp.csproj|C:\\UnityErwin\\erwinnner\\PrimerDia5\\assets\\scripts\\audiomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{18BD6B3E-1215-820E-34B4-41866EC33463}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\audiomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{18BD6B3E-1215-820E-34B4-41866EC33463}|Assembly-CSharp.csproj|C:\\UnityErwin\\erwinnner\\PrimerDia5\\assets\\scripts\\audiomanagerinstaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{18BD6B3E-1215-820E-34B4-41866EC33463}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\audiomanagerinstaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{18BD6B3E-1215-820E-34B4-41866EC33463}|Assembly-CSharp.csproj|c:\\unityerwin\\erwinnner\\primerdia5\\assets\\scripts\\eventbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18BD6B3E-1215-820E-34B4-41866EC33463}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\eventbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,71 +18,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "AudioManagerInstaller.cs",
-              "DocumentMoniker": "C:\\UnityErwin\\erwinnner\\PrimerDia5\\Assets\\Scripts\\AudioManagerInstaller.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\AudioManagerInstaller.cs",
-              "ToolTip": "C:\\UnityErwin\\erwinnner\\PrimerDia5\\Assets\\Scripts\\AudioManagerInstaller.cs",
-              "RelativeToolTip": "Assets\\Scripts\\AudioManagerInstaller.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-04T12:57:06.122Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "AudioManager.cs",
-              "DocumentMoniker": "C:\\UnityErwin\\erwinnner\\PrimerDia5\\Assets\\Scripts\\AudioManager.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\AudioManager.cs",
-              "ToolTip": "C:\\UnityErwin\\erwinnner\\PrimerDia5\\Assets\\Scripts\\AudioManager.cs",
-              "RelativeToolTip": "Assets\\Scripts\\AudioManager.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-04T12:56:59.602Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "UIManagerInstaller.cs",
-              "DocumentMoniker": "C:\\UnityErwin\\erwinnner\\PrimerDia5\\Assets\\Scripts\\UIManagerInstaller.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\UIManagerInstaller.cs",
-              "ToolTip": "C:\\UnityErwin\\erwinnner\\PrimerDia5\\Assets\\Scripts\\UIManagerInstaller.cs",
-              "RelativeToolTip": "Assets\\Scripts\\UIManagerInstaller.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-29T14:40:00.383Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "UIManager.cs",
-              "DocumentMoniker": "C:\\UnityErwin\\erwinnner\\PrimerDia5\\Assets\\Scripts\\UIManager.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\UIManager.cs",
-              "ToolTip": "C:\\UnityErwin\\erwinnner\\PrimerDia5\\Assets\\Scripts\\UIManager.cs",
-              "RelativeToolTip": "Assets\\Scripts\\UIManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAKAAAAAAAAAA==",
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "C:\\UnityErwin\\erwinnner\\PrimerDia5\\Assets\\Scripts\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameManager.cs",
+              "ToolTip": "C:\\UnityErwin\\erwinnner\\PrimerDia5\\Assets\\Scripts\\GameManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-29T14:39:57.655Z",
+              "WhenOpened": "2025-08-04T16:02:08.214Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "OptionsUIHandler.cs",
-              "DocumentMoniker": "C:\\UnityErwin\\erwinnner\\PrimerDia5\\Assets\\Scripts\\OptionsUIHandler.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\OptionsUIHandler.cs",
-              "ToolTip": "C:\\UnityErwin\\erwinnner\\PrimerDia5\\Assets\\Scripts\\OptionsUIHandler.cs",
-              "RelativeToolTip": "Assets\\Scripts\\OptionsUIHandler.cs",
-              "ViewState": "AgIAACQAAAAAAAAAAAAowC0AAAA/AAAAAAAAAA==",
+              "Title": "EventBus.cs",
+              "DocumentMoniker": "C:\\UnityErwin\\erwinnner\\PrimerDia5\\Assets\\Scripts\\EventBus.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\EventBus.cs",
+              "ToolTip": "C:\\UnityErwin\\erwinnner\\PrimerDia5\\Assets\\Scripts\\EventBus.cs",
+              "RelativeToolTip": "Assets\\Scripts\\EventBus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-29T14:39:53.221Z",
+              "WhenOpened": "2025-08-04T16:00:58.746Z",
               "EditorCaption": ""
             }
           ]
