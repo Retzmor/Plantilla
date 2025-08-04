@@ -11,7 +11,7 @@ using static UnityEditor.Progress;
 public class OptionsUIHandler : MonoBehaviour
 {
     [Inject] AudioManager audioManager;
-    [Inject] UIManager uIManager;
+    [Inject] DisplaySettingsManager displayManager;
     [SerializeField] Slider sliderMusic;
     [SerializeField] Slider sliderSFX;
     [SerializeField] Slider sliderMaster;
@@ -40,10 +40,10 @@ public class OptionsUIHandler : MonoBehaviour
     {
         fullScreenToggle.onValueChanged.AddListener(delegate
         {
-            Screen.fullScreen = fullScreenToggle.isOn;
+            displayManager.SetFullScreen(fullScreenToggle.isOn);
         });
 
-        fullScreenToggle.isOn = Screen.fullScreen;
+        fullScreenToggle.isOn = displayManager.GetFullScreen();
 
     }
     public void LoadResolution()
@@ -58,7 +58,7 @@ public class OptionsUIHandler : MonoBehaviour
 
         resolutionDropdown.onValueChanged.AddListener(delegate
         {
-            uIManager.SetResolution(resolutionDropdown.value);
+            displayManager.SetResolution(resolutionDropdown.value);
         });
     }
     public string resolutionGame(Resolution resolution)
