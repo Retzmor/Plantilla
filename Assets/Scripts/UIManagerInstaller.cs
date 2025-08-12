@@ -1,12 +1,11 @@
-using System.Collections.Generic;
 using UnityEngine;
 using Zenject;
 
-public class DisplaySettingsInstaller : MonoInstaller
+public class UIManagerInstaller : MonoInstaller
 {
-    [SerializeField] GameObject UIManagerPrefap;
+    [SerializeField] GameObject prefap;
     public override void InstallBindings()
     {
-        Container.Bind<DisplaySettingsManager>().FromComponentInNewPrefab(UIManagerPrefap).AsSingle();
+        Container.Bind<UIManager>().FromComponentInNewPrefab(prefap).AsSingle();
     }
 }
