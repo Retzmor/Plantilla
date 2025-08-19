@@ -9,7 +9,7 @@ public class DisplaySettingsManager : MonoBehaviour
     private void Awake()
     {
         QualityChange(PlayerPrefs.HasKey(qualityKey) ? PlayerPrefs.GetInt(qualityKey) : 0);
-        SetResolution(PlayerPrefs.HasKey("ResRate") ? PlayerPrefs.GetInt("ResRate") : 0);
+        //SetResolution(PlayerPrefs.HasKey("ResRate") ? PlayerPrefs.GetInt("ResRate") : 0);
     }
     public void SetResolution(int index)
     {

@@ -7,7 +7,7 @@ using UnityEngine;
 using UnityEngine.UI;
 using Zenject;
 
-public class OptionsUIHandler : MonoBehaviour
+public class OptionsUIHandler : BaseUIPanel
 {
     [Inject] AudioManager audioManager;
     [Inject] DisplaySettingsManager displayManager;
@@ -18,8 +18,9 @@ public class OptionsUIHandler : MonoBehaviour
     [SerializeField] TMP_Dropdown qualityDropdown;
     [SerializeField] Toggle fullScreenToggle;
     
-    private void Start()
+    public override void Start()
     {
+        base.Start();
         LoadResolution();
         LoadSliders();
         FullScreenToggle();

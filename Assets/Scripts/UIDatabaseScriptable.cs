@@ -16,10 +16,9 @@ public class UIDatabaseScriptable : ScriptableObject
     [Serializable]
     public class UIData
     {
-        [SerializeField] UIPanelEnum _panelEnum;
-        [SerializeField] GameObject _panelGO;
-
         public UIPanelEnum PanelEnum { get => _panelEnum; set => _panelEnum = value; }
+        [SerializeField] UIPanelEnum _panelEnum;
         public GameObject PanelGO { get => _panelGO; set => _panelGO = value; }
+        [SerializeField] GameObject _panelGO;
     }
 }

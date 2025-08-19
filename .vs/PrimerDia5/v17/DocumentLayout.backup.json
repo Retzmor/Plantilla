@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\UnityErwin\\erwinnner\\PrimerDia5\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{18BD6B3E-1215-820E-34B4-41866EC33463}|Assembly-CSharp.csproj|c:\\unityerwin\\erwinnner\\primerdia5\\assets\\scripts\\uidatabasescriptable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{18BD6B3E-1215-820E-34B4-41866EC33463}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\uidatabasescriptable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2F23A34B-4FC4-2B0F-28CE-34D60C8E363B}|Zenject.csproj|c:\\unityerwin\\erwinnner\\primerdia5\\assets\\plugins\\zenject\\source\\providers\\prefabcreators\\prefabinstantiator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F23A34B-4FC4-2B0F-28CE-34D60C8E363B}|Zenject.csproj|solutionrelative:assets\\plugins\\zenject\\source\\providers\\prefabcreators\\prefabinstantiator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,14 +19,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "UIDATAbaseScriptable.cs",
-              "DocumentMoniker": "C:\\UnityErwin\\erwinnner\\PrimerDia5\\Assets\\Scripts\\UIDATAbaseScriptable.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\UIDATAbaseScriptable.cs",
-              "ToolTip": "C:\\UnityErwin\\erwinnner\\PrimerDia5\\Assets\\Scripts\\UIDATAbaseScriptable.cs",
-              "RelativeToolTip": "Assets\\Scripts\\UIDATAbaseScriptable.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAEAAAAAAAAAA==",
+              "Title": "PrefabInstantiator.cs",
+              "DocumentMoniker": "C:\\UnityErwin\\erwinnner\\PrimerDia5\\Assets\\Plugins\\Zenject\\Source\\Providers\\PrefabCreators\\PrefabInstantiator.cs",
+              "RelativeDocumentMoniker": "Assets\\Plugins\\Zenject\\Source\\Providers\\PrefabCreators\\PrefabInstantiator.cs",
+              "ToolTip": "C:\\UnityErwin\\erwinnner\\PrimerDia5\\Assets\\Plugins\\Zenject\\Source\\Providers\\PrefabCreators\\PrefabInstantiator.cs",
+              "RelativeToolTip": "Assets\\Plugins\\Zenject\\Source\\Providers\\PrefabCreators\\PrefabInstantiator.cs",
+              "ViewState": "AgIAAFkAAAAAAAAAAIAwwGcAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-12T15:49:29.174Z",
+              "WhenOpened": "2025-08-19T13:11:29.388Z",
               "EditorCaption": ""
             }
           ]

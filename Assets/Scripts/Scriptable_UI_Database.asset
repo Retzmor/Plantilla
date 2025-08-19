@@ -12,3 +12,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 12d279d4f623dd0479de13a2d21aa122, type: 3}
   m_Name: Scriptable_UI_Database
   m_EditorClassIdentifier: 
+  interfaces:
+  - _panelEnum: 0
+    _panelGO: {fileID: 0}
+  - _panelEnum: 1
+    _panelGO: {fileID: 5211960416051870106, guid: 36e7b2f294296ea44b16435ee56eebcd, type: 3}
