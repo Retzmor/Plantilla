@@ -7,6 +7,6 @@ public class MainMenuInitializer : MonoBehaviour
     // Update is called once per frame
     private void Start()
     {
-        manager.ShowPanelCorutine(UIPanelEnum.Option);
+        manager.ShowPanel(UIPanelEnum.Option);
     }
 }

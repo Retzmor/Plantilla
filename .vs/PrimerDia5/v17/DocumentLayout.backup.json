@@ -3,8 +3,20 @@
   "WorkspaceRootPath": "C:\\UnityErwin\\erwinnner\\PrimerDia5\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{18BD6B3E-1215-820E-34B4-41866EC33463}|Assembly-CSharp.csproj|c:\\unityerwin\\erwinnner\\primerdia5\\assets\\scripts\\mainmenuinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18BD6B3E-1215-820E-34B4-41866EC33463}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\mainmenuinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{2F23A34B-4FC4-2B0F-28CE-34D60C8E363B}|Zenject.csproj|c:\\unityerwin\\erwinnner\\primerdia5\\assets\\plugins\\zenject\\source\\providers\\prefabcreators\\prefabinstantiator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2F23A34B-4FC4-2B0F-28CE-34D60C8E363B}|Zenject.csproj|solutionrelative:assets\\plugins\\zenject\\source\\providers\\prefabcreators\\prefabinstantiator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18BD6B3E-1215-820E-34B4-41866EC33463}|Assembly-CSharp.csproj|c:\\unityerwin\\erwinnner\\primerdia5\\assets\\scripts\\uimanagerinstaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18BD6B3E-1215-820E-34B4-41866EC33463}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\uimanagerinstaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18BD6B3E-1215-820E-34B4-41866EC33463}|Assembly-CSharp.csproj|c:\\unityerwin\\erwinnner\\primerdia5\\assets\\scripts\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18BD6B3E-1215-820E-34B4-41866EC33463}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,11 +26,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UIManager.cs",
+              "DocumentMoniker": "C:\\UnityErwin\\erwinnner\\PrimerDia5\\Assets\\Scripts\\UIManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UIManager.cs",
+              "ToolTip": "C:\\UnityErwin\\erwinnner\\PrimerDia5\\Assets\\Scripts\\UIManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UIManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T15:42:52.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UIManagerInstaller.cs",
+              "DocumentMoniker": "C:\\UnityErwin\\erwinnner\\PrimerDia5\\Assets\\Scripts\\UIManagerInstaller.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UIManagerInstaller.cs",
+              "ToolTip": "C:\\UnityErwin\\erwinnner\\PrimerDia5\\Assets\\Scripts\\UIManagerInstaller.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UIManagerInstaller.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T15:42:49.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "MainMenuInitializer.cs",
+              "DocumentMoniker": "C:\\UnityErwin\\erwinnner\\PrimerDia5\\Assets\\Scripts\\MainMenuInitializer.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MainMenuInitializer.cs",
+              "ToolTip": "C:\\UnityErwin\\erwinnner\\PrimerDia5\\Assets\\Scripts\\MainMenuInitializer.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MainMenuInitializer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T15:42:36.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "PrefabInstantiator.cs",
               "DocumentMoniker": "C:\\UnityErwin\\erwinnner\\PrimerDia5\\Assets\\Plugins\\Zenject\\Source\\Providers\\PrefabCreators\\PrefabInstantiator.cs",
               "RelativeDocumentMoniker": "Assets\\Plugins\\Zenject\\Source\\Providers\\PrefabCreators\\PrefabInstantiator.cs",
